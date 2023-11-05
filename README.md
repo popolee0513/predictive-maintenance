@@ -1,14 +1,11 @@
 # Real-time Machinery Fault Detection
 
-![Pipeline Image](https://github.com/popolee0513/predictive-maintenance/blob/main/pipeline.jpg)
+![Pipeline Image](https://github.com/popolee0513/predictive-maintenance/blob/main/pipeline.jpg | width=80%)
 
 ## Introduction
 
-This project is focused on real-time machinery fault detection using machine learning. The primary data source for this project is the [MetroPT2 dataset](https://zenodo.org/records/7766691), a benchmark dataset for predictive maintenance.The main goal of this project is to develop a real-time machinery fault detection pipeline.
+This project is focused on real-time machinery fault detection using machine learning. The primary data source for this project is the [MetroPT2 dataset](https://zenodo.org/records/7766691), a benchmark dataset for predictive maintenance. The main goal of this project is to develop a real-time machinery fault detection pipeline.
 
-## Data Source
-
-The project relies on the [MetroPT2 dataset](https://zenodo.org/records/7766691) for training and testing. This dataset provides sensor data, which is essential for our machinery fault detection model.
 
 ## Methodology
 
