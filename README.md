@@ -1,6 +1,7 @@
 # Real-time Machinery Fault Detection
 
-![Pipeline Image](https://github.com/popolee0513/predictive-maintenance/blob/main/pipeline.jpg width=80%)
+<img src="https://github.com/popolee0513/predictive-maintenance/blob/main/pipeline.jpg" alt="Pipeline Image" width="80%">
+
 
 ## Introduction
 
